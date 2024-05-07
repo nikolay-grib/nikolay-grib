@@ -1,7 +1,8 @@
-Домашние задания по курсу Data Science
+![](https://static.tildacdn.biz/tild3564-3336-4466-a531-623936373763/Group_173.svg)
+
+# Николай Гриб
+# Курс «Data Science: машинное обучение и нейронные сети»
 
 
-<!---
-nikolay-grib/nikolay-grib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- [x] Домашнее задание №1  в файле #2.py
+- [x] Домашнее задание №2  в файлах #13.py, #14.py и #15.py
